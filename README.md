@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is SOM <br><br>🎓I'm 20 years old passionate tech learner from India<br>🐍 Currently learning Python and exploring the world of programming<br>📱 Previously worked on Android App Development<br>🤖 Future goal: To become an AI Engineer and build smart, impactful technology.</p>
+<p align="left">My name is SOM DONGRE <br><br>🎓I'm 20 years old passionate tech learner from India<br>🐍 Currently learning Python and exploring the world of programming<br>📱 Previously worked on Android App Development<br>🤖 Future goal: To become an AI Engineer and build smart, impactful technology.</p>
 
 ###
 
