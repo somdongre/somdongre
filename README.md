@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is SOM DONGRE <br><br>🎓I'm 20 years old passionate tech learner from India<br>🐍 Currently learning Python and exploring the world of programming<br>📱 Previously worked on Android App Development<br>🤖 Future goal: To become an AI Engineer and build smart, impactful technology.</p>
+<p align="left">My name is SOM DONGRE <br><br>🎓I'm 21 years old passionate tech learner from India<br>🐍 Currently learning Python and exploring the world of programming<br><br>🤖 Future goal: To become an  Engineer and build smart, impactful technology.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🚀 Skills & Interests<br>Python Programming<br>Android Development<br>Problem Solving<br>Artificial Intelligence & Machine Learning (Learning Phase)<br><br><br>🌱 Currently Learning<br>Python fundamentals<br>Data Structures & Algorithms<br>AI & Machine Learning basics</p>
+<p align="left">🚀 Skills & Interests<br>Python Programming<br>Android Development<br>Problem Solving<br><br><br><br>🌱 Currently Learning<br>Python fundamentals<br>Data Structures & Algorithms<br></p>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<p align="left">🎯 Goal :- 🤖 Aspiring AI/ML Engineer passionate about building intelligent and impactful technology.</p>
+<p align="left">🎯 Goal :- 🤖 Aspiring  Engineer passionate about building intelligent and impactful technology.</p>
 
 ###
 
